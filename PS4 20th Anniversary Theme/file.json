@@ -1,0 +1,10 @@
+{
+  "name": "PS4 20th Anniversary Theme",
+  "description": "The music from the 20th Anniversary theme for PS4.",
+  "author": "WhoDokter",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
